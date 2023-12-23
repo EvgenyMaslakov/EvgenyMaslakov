@@ -4,9 +4,12 @@
 * Я изучаю Java в [Job4j](https://job4j.ru/) ☕
 * Я изучал информатику в СПбГЭТУ "ЛЭТИ" (Санкт-Петербургский государственный электротехнический университет). 🏢
 
-
 Все мои учебные проекты:
 * [Консольное приложение](https://github.com/EvgenyMaslakov/job4j_tracker)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=EvgenyMaslakov&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyMaslakov&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
 <!--
 **EvgenyMaslakov/EvgenyMaslakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
